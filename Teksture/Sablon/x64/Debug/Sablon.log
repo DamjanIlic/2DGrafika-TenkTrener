@@ -1,0 +1,52 @@
+﻿  main.cpp
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(423,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(744,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(829,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(829,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(829,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(833,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(833,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(833,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(857,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(947,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(947,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(992,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1006,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1016,51): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1028,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1031,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1047,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1047,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1063,100): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1063,94): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1063,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1067,100): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1067,94): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1067,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1083,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1083,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1083,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1090,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1090,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1090,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1090,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1097,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1101,63): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1105,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1105,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1107,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1108,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1115,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1121,63): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1128,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1128,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1131,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1132,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1149,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1338,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1338,58): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1338,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1335,38): warning C4101: 'bulletCillinderVBO': unreferenced local variable
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1335,18): warning C4101: 'bulletCillinderVAO': unreferenced local variable
+D:\Faks\Grafika\RG Teksture\Teksture\main.cpp(1346,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> D:\Faks\Grafika\RG Teksture\Teksture\x64\Debug\Sablon.exe
